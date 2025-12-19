@@ -207,3 +207,5 @@ ___
 > <Enter> | <ESC>
 > ```
 > 
+
+[B站视频](https://www.bilibili.com/video/BV1s4421A7he/?p=4&share_source=copy_web&vd_source=803339eba3727d297a97a4835f94ae30 "【Vim】可能是B站最系统的Vim教程")
